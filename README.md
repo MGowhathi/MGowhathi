@@ -112,6 +112,33 @@ Programmer Analyst at Cognizant | SharePoint Developer | Power Platform Develope
 </p>
 
 <hr>
+<h2>🚀 Featured Projects</h2>
+
+<ul>
+
+<li>
+<b>SharePoint SPFx Webparts</b><br>
+Custom SharePoint components built using React and SPFx.
+</li>
+
+<br>
+
+<li>
+<b>Power Platform Automation</b><br>
+Enterprise workflow automation using Power Apps & Power Automate.
+</li>
+
+<br>
+
+<li>
+<b>Modern Web Applications</b><br>
+Responsive applications built with React, Angular and REST APIs.
+</li>
+
+</ul>
+
+<hr>
+
 
 <h2>📫 Connect With Me</h2>
 
